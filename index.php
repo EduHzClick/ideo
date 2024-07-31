@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
-    <h1>titulo</h1>
-    <p>PArrafo</p>
+    <h1>Titulo</h1>
+    <p>Parrafo</p>
 </body>
 </html>
