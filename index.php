@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Titulo</h1>
+    <h2>SubTitulo<h2>
     <p>Parrafo</p>
     <?php
     echo "hello";
